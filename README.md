@@ -184,7 +184,7 @@ Authorization: Bearer YOUR_JWT_TOKEN
 - Payment collected on delivery
 
 ### Manual bKash
-- Customer sends payment to: +8801794529766
+- Customer sends payment to: (personal Bkash)
 - Required information:
   - Sender bKash number
   - Transaction ID
